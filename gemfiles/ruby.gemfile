@@ -2,4 +2,7 @@
 
 source "https://rubygems.org"
 
+gem 'rails'
+gem 'tzinfo-data'
+
 gemspec path: "../"
